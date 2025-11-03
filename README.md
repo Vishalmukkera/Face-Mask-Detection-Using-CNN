@@ -20,7 +20,7 @@ The model is deployed as a simple **Streamlit web app**, where users can upload 
 - **Programming Language:** Python  
 - **Deep Learning Frameworks:** TensorFlow, Keras  
 - **Other Libraries:** NumPy, OpenCV, Streamlit, Matplotlib  
-- **Dataset:** [Face Mask Detection Dataset](https://www.kaggle.com/datasets)  
+- **Dataset:** [Face Mask Detection Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)  
 
 ---
 
