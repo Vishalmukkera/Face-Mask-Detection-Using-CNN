@@ -24,13 +24,3 @@ The model is deployed as a simple **Streamlit web app**, where users can upload 
 
 ---
 
-## 📂 Project Structure
-ace Mask Detection/
-│
-├── data/
-│ ├── with_mask/
-│ └── without_mask/
-│
-├── mask_detector_model.h5 # Trained CNN model
-├── train_model.py # Model training script
-├── app.py # Streamlit web app
